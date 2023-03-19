@@ -1,6 +1,7 @@
 # Star Wars Repo
 
-![sw.jpg](Star Wars)
-![Star Wars](./sw.jpg?raw=true "Star Wars")
+<div align="center">
+    <img src="./sw.jpg" width="200px"</img> 
+</div>
 
 Este repositório serve de exemplo para avaliar os comandos do git.
