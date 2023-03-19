@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-<div align="center">
+<div align="left">
     <img src="./sw.jpg" width="200px"</img> 
 </div>
 
